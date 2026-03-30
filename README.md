@@ -47,4 +47,4 @@ main = do
 
 Achei fácil entender a diferença teórica, mas não tenho certeza sobre quando qual deve ser usado (talvez eu ache `where` mais legível?).
 
-![Video](https://bottomservices.club/video.webm)
+![Video](https://bottomservices.club/video0.webm)
