@@ -45,6 +45,5 @@ main = do
     putStrLn (if cpfValid digits then "Válido" else "Inválido")
 ```
 
-Achei fácil entender a diferença teórica, mas não tenho certeza sobre quando qual deve ser usado (talvez eu ache `where` mais legível?).
-
-![Video](https://bottomservices.club/video0.webm)
+Achei fácil entender a diferença teórica, mas não tenho certeza sobre quando qual deve ser usado (talvez eu ache `where` mais legível?).  
+![ezgif-7b62aadd1757baee](https://github.com/user-attachments/assets/b3ba7ddf-f33e-4bea-bb26-2eed971b3222)
